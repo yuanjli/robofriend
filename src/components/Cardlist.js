@@ -2,6 +2,8 @@ import React from 'react';
 import Card from './Card';
 
 
+// pure function and pure components.
+// it recieves an input and returns the same out put.
 const CardlistComponent = ({ robots }) => {
 	return (
 		<div> 
